@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * func_stack - prints the top
+ * func_stack - sets the format of the data to a stack (LIFO)
  * @head: stack head
  * @counter: line_number
  * Return: no return
